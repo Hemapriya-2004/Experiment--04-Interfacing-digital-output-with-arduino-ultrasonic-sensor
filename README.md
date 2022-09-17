@@ -55,7 +55,7 @@ speed of sound in the air at 20ºC (68ºF) = 343m/s
 
 
 ### PROGRAM
-
+~~~
 const int trigpin (2);
 const int echopin (3);
 long duration;
@@ -80,9 +80,12 @@ void loop()
   Serial.print(distance);
   Serial.println("CM");
 }
+~~~~
 
 ### output
+### circuit
 ![image](https://github.com/Hemapriya-2004/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/main/4.1.jpeg)
+### SERIAL MONITOR
 ![image](https://github.com/Hemapriya-2004/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/main/4.2.jpeg)
 
 ### Distance vs measurement table 
@@ -94,6 +97,7 @@ void loop()
 			
 			
 			Average error = sum/ number of readings 
+			            
  
 
 
@@ -104,7 +108,7 @@ void loop()
 
 
 ### RESULTS
-
+Thus,the distance value is measured in "CM" using ultrasonic sensor.
 
 
  
