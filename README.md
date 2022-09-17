@@ -82,11 +82,11 @@ void loop()
 }
 
 ### output
-![image]()
-![image]()
+![image](https://github.com/Hemapriya-2004/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/main/4.1.jpeg)
+![image](https://github.com/Hemapriya-2004/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/main/4.2.jpeg)
 
 ### Distance vs measurement table 
-![image]()
+![image](https://github.com/Hemapriya-2004/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/main/4.4.jpeg)
 
 			
 			
